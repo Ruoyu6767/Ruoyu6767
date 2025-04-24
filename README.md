@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 學校：國立中山大學
+
 系所：財務管理學系
+
 系級：115
+
 年齡：20
+
 社團：無
