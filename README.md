@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好 👋👋👋
 
 <!--
 **Ruoyu6767/Ruoyu6767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-學校
+學校：國立中山大學
+系所：財務管理學系
+系級：115
+年齡：20
+社團：無
